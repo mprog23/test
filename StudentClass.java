@@ -5,7 +5,7 @@ public class StudentClass {
   }
   
   public String callSomeFunc(String hello) {
-    return hello == "input";
+    return "input";
   }
 
 }
